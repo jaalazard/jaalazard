@@ -14,6 +14,6 @@
 - 🌱 My stack: PHP, Symfony, JavaScript, TypeScript, Node, Bun, Express, React, React Native, CSS, Tailwind, Bootstrap, MySQL.
 - 💻 A true enthusiast, I love exploring new technologies and engaging with my peers.
 - 👀 Available from March 2024, I am open to any opportunity.
-- 🚗 Located in the Centre-Val-De-Loire and Île-De-France regions. I am also open to remote work.
+- 🚗 Mobile in the Centre-Val-De-Loire and Île-De-France regions. I am also open to remote work.
 - ❓ I'll bring you my skills, but also a mindset: always positive, conscientious, and with unwavering perseverance.
 - 🇱 Find me on Linkedin: https://www.linkedin.com/in/jaalazard/
