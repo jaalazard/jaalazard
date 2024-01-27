@@ -1,7 +1,7 @@
 - 👋 Hey, je suis @jaalazard, développeur web fullstack.
 - 📚 Titulaire du Titre Professionnel "Développeur Web et Web Mobile", je prépare à présent le Titre Professionnel "Concepteur Développeur d'Applications" (Bac +4)
 - 🌱 Mon stack : PHP, Symfony, JavaScript, TypeScript, Node, Bun, Express, React, React Native, CSS, Tailwind, Bootstrap, MySQL.
-- 💻 Véritable passionné, j'aime découvrir de nouvekkes technologies et échanger avec mes pairs.
+- 💻 Véritable passionné, j'aime découvrir de nouvelles technologies et échanger avec mes pairs.
 - 👀 Disponible à partir de mars 2024, je suis ouvert à toute opportunité.
 - 🚗 Mobile en région Centre-Val-De-Loire, et en Ile-De-France. Je suis également ouvert au télétravail.
 - ❓ Je vous apporterai mes compétences, mais aussi un état d'esprit : toujours positif, consciencieux, et d'une perséverance sans faille.
