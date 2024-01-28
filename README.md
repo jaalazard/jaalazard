@@ -5,7 +5,7 @@
 - 👀 Disponible à partir de mars 2024, je suis ouvert à toute opportunité.
 - 🚗 Mobile en région Centre-Val-De-Loire, et en Ile-De-France. Je suis également ouvert au télétravail.
 - ❓ Je vous apporterai mes compétences, mais aussi un état d'esprit : toujours positif, consciencieux, et d'une perséverance sans faille.
-- 🇱 Retrouvez-moi sur Linkedin : https://www.linkedin.com/in/jaalazard/
+- 🇱 Retrouvez-moi sur Linkedin : https://www.linkedin.com/in/jaalazard/  
 
 
   
