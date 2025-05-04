@@ -5,7 +5,7 @@
 
 
     <br><br>
-- 👋 Hey, I'm @jaalazard, a full-stack developer, currently working at Sogec Marketing.
+- 👋 Hey, I'm @jaalazard, a full-stack developer, with 2 years of experience.
 - 📚 Holder of the Professional Title "Application Developer Designer" (Bac +4).
 - 🌱 My stack: AWS, PHP, Symfony, NodeJS, TypeScript, React, React Native, MySQL...
 - 🇱 Find me on Linkedin: https://www.linkedin.com/in/jaalazard/
